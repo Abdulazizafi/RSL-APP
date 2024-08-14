@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "755910340909",
+    "firebase_url": "https://footballappgp-default-rtdb.firebaseio.com",
+    "project_id": "footballappgp",
+    "storage_bucket": "footballappgp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755910340909:android:5b90d5f559eb8334dba3a4",
+        "android_client_info": {
+          "package_name": "com.example.football_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3wWKKDogKceJYcICyMNr4AwGbquGty7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
